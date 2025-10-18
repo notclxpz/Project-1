@@ -9,12 +9,15 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+output 0 uses OR logic via input 1 and input 2
+output 1 uses AND logic via input 2 and input 3
+output 2 uses XOR logic via input 4 and input 5
+output 3 uses NAND logic via input 5 and input 6
 
 ## How to test
 
-Explain how to use your project
+Start the simulation and press the on and off switches to play around with the logics.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None
